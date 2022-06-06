@@ -1,4 +1,4 @@
-# brain-tutor_Group 7
+# brain-tumor_Group 7
 
 https://www.kaggle.com/code/pokhang123/brain-tumor-detection-cnn-86 의 opensource를 사용하여 뇌 종양을 예측하였습니다.
 
@@ -12,7 +12,7 @@ https://www.kaggle.com/code/pokhang123/brain-tumor-detection-cnn-86 의 opensour
   !pip install umap
   ```
   
-2. brain_tumor_dataset.zip을 압축 해제하여 input 폴더 안에 넣어준다.
+2. archive.zip을 압축 해제하여 input 폴더 안에 넣어준다.
    * 상대 경로 : ../input/brain_tumor_dataset  
-3. brain-tumor-detection-cnn.ipynd 코드를 차례대로 실행시킨다.
+3. brain-tumor-detection-cnn.ipyb 코드를 차례대로 실행시킨다.
 4. 결과를 확인하여 분석한다.
